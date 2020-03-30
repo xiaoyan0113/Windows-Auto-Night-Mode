@@ -205,7 +205,7 @@
     <value>正在搜尋更新…</value>
   </data>
   <data name="msgThemeError" xml:space="preserve">
-    <value>警告：此程式無法獲取當前的主題</value>
+    <value>警告：此程式無法取得當前的主題</value>
   </data>
   <data name="msgUpdateAvail" xml:space="preserve">
     <value>有可用的更新</value>
@@ -239,7 +239,7 @@
     <value>城市</value>
   </data>
   <data name="cmb1903" xml:space="preserve">
-    <value>此選項已被停用，因為你尚未在此裝置上安裝Windows 10 April 2019更新。</value>
+    <value>此選項已被停用，因為你尚未在此裝置上安裝Windows 10 1903更新。</value>
   </data>
   <data name="restartNeeded" xml:space="preserve">
     <value>需要重新啟動程式才能套用變更</value>
@@ -311,7 +311,7 @@
     <value>發生錯誤</value>
   </data>
   <data name="cbAccentColor" xml:space="preserve">
-    <value>僅在深色主題下可見</value>
+    <value>只能在深色模式下顯示</value>
   </data>
   <data name="info" xml:space="preserve">
     <value>資訊</value>
@@ -353,7 +353,7 @@
 但是這也會縮短電池壽命！僅在必要時啟用！</value>
   </data>
   <data name="msgBatterySaver" xml:space="preserve">
-    <value>Due to a Windows bug the taskbar doesn't properly switch its colour in battery saver mode. Please turn off battery saver if you run into issues.由於Windows的問題，工作列無法在節電模式下正確切換其顏色。如果遇到問題，請關閉節電模式。</value>
+    <value>由於Windows的問題，工作列無法在省電模式下正確切換其顏色。如果遇到問題，請關閉省電模式。</value>
   </data>
   <data name="donationDescription" xml:space="preserve">
     <value>你好！感謝使用自動主題切換。我希望你到目前為止喜歡它 :)
